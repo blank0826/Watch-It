@@ -2,7 +2,7 @@
 
 Watch-It is a movie platform where used could see the list that has been fetched from an API and could check all the movies and could sort them on the basis of their genres. It also included the ability to delete the movie and search them on the basis of their name. It provided with the feature of pagination and also with the ability to allow users set the number of movies to be shown at each specific page. This has been created using **JavaScript, ReactJs**
 
-**You can find the project here: [Website Deployment](https://github.com/blank0826/MOLA/blob/master/README.md#website)**<br/>
+**You can find the project here: [Website Deployment](https://github.com/blank0826/Watch-It/blob/master/README.md#website)**<br/>
 
 # Local Setup
 
