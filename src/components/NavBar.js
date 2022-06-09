@@ -14,7 +14,7 @@ function NavBar() {
      mr-4
      "
       >
-        IMDB
+        Watch-It
       </Link>
       <Link
         to="/login"
