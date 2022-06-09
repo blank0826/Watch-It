@@ -16,7 +16,7 @@ Watch-It is a movie platform where used could see the list that has been fetched
 2. Open VS Code -> Specified Folder -> Open Terminal -> npm start
 
 # Website
-### [https://mola.repl.co/](https://mola-1--ps428.repl.co/)<br/>
+### [https://watch-it-26.netlify.app/home](https://watch-it-26.netlify.app/home)<br/>
 
 # Contact
 ## [Aditya Srivastava](mailto:aditya26052002@gmail.com?subject=GitHub)
